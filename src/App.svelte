@@ -1,5 +1,5 @@
 <script>
-	export let name;
+	export let firebaseApp;
 </script>
 
 <style>
@@ -8,4 +8,4 @@
 	}
 </style>
 
-<h1>Hello {name}! noo</h1>
+<h1>Hello!</h1>
